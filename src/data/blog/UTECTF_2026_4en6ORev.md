@@ -1,8 +1,13 @@
 ---
 title: "UTECTF 2026: 4en6ORev (Medium)"
-description: "Forensic analysis of a corrupted PE file - restoring Magic Bytes, unpacking UPX, bypassing fake OEPs, and decrypting XOR-encoded strings"
+description: Forensic analysis of a corrupted PE file - restoring Magic Bytes, unpacking UPX, bypassing fake OEPs, and decrypting XOR-encoded strings
 pubDatetime: 2026-01-18T00:00:00Z
-tags: ["ctf", "forensics", "reverse-engineering", "pe-structure", "utectf"]
+tags:
+  - ctf
+  - forensics
+  - reverse-engineering
+  - pe-structure
+  - utectf
 draft: false
 ---
 

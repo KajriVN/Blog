@@ -1,8 +1,12 @@
 ---
-title: "Revenge Hotels APT Investigation"
-description: "Complete forensic analysis of a sophisticated multi-stage APT attack involving phishing, PowerShell payloads, and data exfiltration"
+title: Revenge Hotels APT Investigation
+description: Complete forensic analysis of a sophisticated multi-stage APT attack involving phishing, PowerShell payloads, and data exfiltration
 pubDatetime: 2025-09-29T00:00:00Z
-tags: ["malware-analysis", "apt", "forensics", "incident-response"]
+tags:
+  - malware-analysis
+  - apt
+  - forensics
+  - incident-response
 draft: false
 ---
 
