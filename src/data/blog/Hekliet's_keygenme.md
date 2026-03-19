@@ -32,7 +32,9 @@ In `KeyGen()` function, it will return to 2 global variables `a` and `b`, they a
 
 ![3.png](https://raw.githubusercontent.com/KajriVN/Blog/main/src/assets/images/HeklietKeyGen/3.png)
 
-Finally, we must address this fomular: $$F = H(r_1^2 + a \cdot r_1 + b) + V(r_2^2 + a \cdot r_2 + b)$$While : 
+Finally, we must address this fomular: $$F = H(r_1^2 + a \cdot r_1 + b) + V(r_2^2 + a \cdot r_2 + b)$$
+
+While : 
 * `r1` is 16 bytes first in `key` input and last is `r2`
 * `a` and `b` are both global variables.
 
