@@ -108,4 +108,4 @@ else:
 print("[-] Khong tim thay bien a hoac b.")
 ```
 
-> P/s : we just figure out only one 16 bytes-first and repeat it in 16 bytes-last, thus leading to solve this issue :)))
+> P/s : we just figure out only 16 bytes-first and repeat it in 16 bytes-last, thus leading to solve this issue :)))
