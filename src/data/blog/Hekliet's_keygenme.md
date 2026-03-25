@@ -32,7 +32,9 @@ In `KeyGen()` function, it will return to 2 global variables `a` and `b`, they a
 
 ![3.png](https://raw.githubusercontent.com/KajriVN/Blog/main/src/assets/images/HeklietKeyGen/3.png)
 
-Finally, we must address this fomular: $$F = H(r_1^2 + a \cdot r_1 + b) + V(r_2^2 + a \cdot r_2 + b)$$While : 
+Finally, we must address this fomular: $$F = H(r_1^2 + a \cdot r_1 + b) + V(r_2^2 + a \cdot r_2 + b)$$
+
+While : 
 * `r1` is 16 bytes first in `key` input and last is `r2`
 * `a` and `b` are both global variables.
 
@@ -108,4 +110,8 @@ else:
 print("[-] Khong tim thay bien a hoac b.")
 ```
 
+<<<<<<< HEAD
 > P/s : we just figure out only 16 bytes-first and repeat it in 16 bytes-last, thus leading to solve this issue :)))
+=======
+> P/s : we just figure out only one 16 bytes-first and repeat it in 16 bytes-last, thus leading to solve this issue :)))
+>>>>>>> 3d49b81124495c370618d1638842fcc164ef1599
