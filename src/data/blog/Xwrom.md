@@ -1,5 +1,5 @@
 ---
-title: "Xworm - Malware Analysis"
+title: "Malware Analysis #01 : Xworm"
 description: "Deep dive analysis of Xworm malware - examining payload delivery, keylogging, and data exfiltration capabilities"
 pubDatetime: 2026-01-20T00:00:00Z
 tags: ["malware-analysis", "xworm", "rat", "cybersecurity"]
